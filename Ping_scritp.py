@@ -10,3 +10,8 @@ def ping (host):
 
 host='google.com'
 print(ping(host))
+
+
+pprint(ping(host)
+
+end
